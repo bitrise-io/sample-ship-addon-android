@@ -21,7 +21,7 @@ android {
     compileSdkVersion 30
 
     defaultConfig {
-        applicationId "io.bitrise.ship-addon"
+        applicationId "io.bitrise.shipaddon"
         minSdkVersion 30
         targetSdkVersion 30
         versionCode 1
